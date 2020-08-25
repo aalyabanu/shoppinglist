@@ -11,7 +11,7 @@ class App extends React.Component {
     return (
       <>
         <Navbar bg="info" variant="dark">
-          <Navbar.Brand>React Shopping List</Navbar.Brand>
+          <Navbar.Brand>Shopping List</Navbar.Brand>
         </Navbar>
         <Container>
           <Add />
